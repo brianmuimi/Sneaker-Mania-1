@@ -1,10 +1,4 @@
----
-title: Home
-layout: base.njk
-tags: navItem
-pageClass: home
----
-  <div class="header">
+ <div class="header">
         <div class="nav-menu">
             <div class="logo">Sneaker-mania</div>
             <div class="menu">
