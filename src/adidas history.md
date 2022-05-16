@@ -1,7 +1,7 @@
 ---
 title: adidas history.md
 layout:
-tags: 
+tags:  
 ---
 
 
