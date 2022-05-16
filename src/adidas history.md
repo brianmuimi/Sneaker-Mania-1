@@ -62,7 +62,7 @@ The three stripes are Adidas' identity mark, having been used on the company's c
     <h2>Project 2 Title</h2>
     <div class="project-image">
       
-      <img class="face" src= "/images/face.png"> </a>
+      <img class="blank" src= "/images/blank.png"> </a>
     </div>
   </section>
   
