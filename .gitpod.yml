@@ -6,4 +6,32 @@ tasks:
   - init: npm install && npm run build
     command: npm run start
 
-
+---
+Type: adidas sneaker history 
+src : '/images/adidas superstar 1.jpg'
+cite: darkprince66 (Tug Chasin from Flickr
+alt: Image of various Adidas styles placed in a circle
+Type: Adidas Superstar
+src: '/images/
+cite: Photo by T. Kaiser from Upsplash 
+alt: an image of someone standing in fall leaves in a pair of Adidas superstars
+Type: Adidas Superstar
+src: '/images/
+cite: Photo by Eric Molina from Flickr
+alt:Image of Adidas allstars with a Run DMC logo printed on it.
+Type:Adidas Superstar
+src:'/images/
+cite:Photo by flikrproject from Flickr
+alt:  
+Type:Adidas Yeezys
+src:'/images/
+cite: 
+alt: 
+Type: 
+src:'/images/
+cite: 
+alt: 
+Type: 
+src:'/images/
+cite: 
+alt:  
