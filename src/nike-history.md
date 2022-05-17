@@ -1,22 +1,11 @@
 ---
 title: nike-history.md
-layout:
+layout: base.njk
 tags:
 ---
 
 
-<nav class="site-nav">
-  <div class="logo">
-    Logo
-  </div>
-  <div class="links">
-    <a href="">Converse</a>
-    <a href="">Adidas</a>
-    <a href="">Nike</a>
-<!--     <a href="">Link 4</a> -->
-  </div>
-</nav>
-<main>
+
 
 <section>
   <h1>nike History</h1>
@@ -100,17 +89,10 @@ In March 2017, Nike announced its launch of a plus-size clothing line, which wil
   
 </section>
   </section>
-  </main>
-<footer>
 
+<footer class="page-footer">
   
-
-  
-  <header class="site-header">
- 
-</header>
-
-<main class="page-projects">
+<div class="page-projects">
   <section class="project">
     <h2>Project 1 Title</h2>
     <div class="project-image">
@@ -118,45 +100,37 @@ In March 2017, Nike announced its launch of a plus-size clothing line, which wil
     </div>
     </p>
   </section>
-  
   <section class="project-text">
   <p>Provident dolor doloremque nisi nemo ut non commodi mollitia ex quod deleniti. Accusamus et adipisci architecto totam. Amet modi expedita recusandae, quos eos nesciunt, suscipit minus alias voluptatum vero, tempora commodi doloribus praesentium pariatur repellendus deleniti reprehenderit nobis deserunt distinctio a.</p>
   </section>
-  
   <section class="project">
     <h2>Project 2 Title</h2>
     <div class="project-image">
-      
       <img src="https://place-hold.it/600" alt="">
     </div>
   </section>
-  
   <section class="project-text">
   <p>Provident dolor doloremque nisi nemo ut non commodi mollitia ex quod deleniti. Accusamus et adipisci architecto totam. Amet modi expedita recusandae, quos eos nesciunt, suscipit minus alias voluptatum vero, tempora commodi doloribus praesentium pariatur repellendus deleniti reprehenderit nobis deserunt distinctio a.</p>
   </section>
-  
   <section class="project">
     <h2>Project 3 Title</h2>
     <div class="project-image">
       <img src="https://place-hold.it/600" alt="">
     </div>
   </section>
-  
   <section class="project-text">
   <p>Provident dolor doloremque nisi nemo ut non commodi mollitia ex quod deleniti. Accusamus et adipisci architecto totam. Amet modi expedita recusandae, quos eos nesciunt, suscipit minus alias voluptatum vero, tempora commodi doloribus praesentium pariatur repellendus deleniti reprehenderit nobis deserunt distinctio a.</p>
   </section>
-  
   <section class="project">
     <h2>Project 4 Title</h2>
     <div class="project-image">
       <img src="https://place-hold.it/600" alt="">
     </div>
   </section>
-  
   <section class="project-text">
   <p>Provident dolor doloremque nisi nemo ut non commodi mollitia ex quod deleniti. Accusamus et adipisci architecto totam. Amet modi expedita recusandae, quos eos nesciunt, suscipit minus alias voluptatum vero, tempora commodi doloribus praesentium pariatur repellendus deleniti reprehenderit nobis deserunt distinctio a.</p>
   </section>
   
-</main>
+</div>
   
 </footer>
