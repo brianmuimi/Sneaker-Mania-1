@@ -96,7 +96,7 @@ In March 2017, Nike announced its launch of a plus-size clothing line, which wil
   <section class="project">
     <h2>Nike Headquarters</h2>
     <div class="project-image">
-      <img src="/images/NikeHeadquarters.jpg" alt="">
+      <img src="/images/Nike Headquarters.jpg" alt="">
     </div>
     </p>
   </section>
@@ -107,7 +107,7 @@ In March 2017, Nike announced its launch of a plus-size clothing line, which wil
   <section class="project">
     <h2>Nike Shoes</h2>
     <div class="project-image">
-      <img src="/images/NikeVariousShoesCircle.jpg" alt="">
+      <img src="/images/Nike Various Shoes Circle.jpg" alt="">
     </div>
   </section>
   <section class="project-text">
