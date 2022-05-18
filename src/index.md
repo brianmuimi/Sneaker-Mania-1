@@ -54,7 +54,5 @@ pageClass: home
     </article>
  </section>
 
-<footer class="page-footer">
-  <p>&copy; Sneaker-Mania 2022</p>
-</footer>
+
 
