@@ -8,7 +8,7 @@ tags:
 
 
 <section>
-  <h1>nike History</h1>
+  <h1>Nike History</h1>
 
   <p>Nike, Inc. (/ˈnaɪki/ or /ˈnaɪk/) is an American multinational corporation that is engaged in the design, development, manufacturing, and worldwide marketing and sales of footwear, apparel, equipment, accessories, and services. The company is headquartered near Beaverton, Oregon, in the Portland metropolitan area. It is the world's largest supplier of athletic shoes and apparel and a major manufacturer of sports equipment, with revenue in excess of US$37.4 billion in its fiscal year 2020 (ending May 31, 2020). As of 2020, it employed 76,700 people worldwide.[5] In 2020 the brand alone was valued in excess of $32 billion, making it the most valuable brand among sports businesses.[6] Previously, in 2017, the Nike brand was valued at $29.6 billion. Nike ranked 89th in the 2018 Fortune 500 list of the largest United States corporations by total revenue.
 
@@ -94,23 +94,25 @@ In March 2017, Nike announced its launch of a plus-size clothing line, which wil
   
 <div class="page-projects">
   <section class="project">
-    <h2>Project 1 Title</h2>
+    <h2>Nike Headquarters</h2>
     <div class="project-image">
-      <img src="https://place-hold.it/600" alt="">
+      <img src="Nike Headquarters.jpg" alt="">
     </div>
     </p>
   </section>
   <section class="project-text">
-  <p>Provident dolor doloremque nisi nemo ut non commodi mollitia ex quod deleniti. Accusamus et adipisci architecto totam. Amet modi expedita recusandae, quos eos nesciunt, suscipit minus alias voluptatum vero, tempora commodi doloribus praesentium pariatur repellendus deleniti reprehenderit nobis deserunt distinctio a.</p>
+  <h4>Nike office in North America</h4>
+  <p>Nike's world headquarters are surrounded by the city of Beaverton but are within unincorporated Washington County. The city attempted to forcibly annex Nike's headquarters, which led to a lawsuit by Nike, and lobbying by the company that ultimately ended in Oregon Senate Bill 887 of 2005. Under that bill's terms, Beaverton is specifically barred from forcibly annexing the land that Nike and Columbia Sportswear occupy in Washington County for 35 years, while Electro Scientific Industries and Tektronix receive the same protection for 30 years.[94] Nike is planning to build a 3.2 million square foot expansion to its World Headquarters in Beaverton. The design will target LEED Platinum certification and will be highlighted by natural daylight, and a gray water treatment center.</p>
   </section>
   <section class="project">
-    <h2>Project 2 Title</h2>
+    <h2>Nike Shoes</h2>
     <div class="project-image">
-      <img src="https://place-hold.it/600" alt="">
+      <img src="Nike Various Shoes Circle.jpg" alt="">
     </div>
   </section>
   <section class="project-text">
-  <p>Provident dolor doloremque nisi nemo ut non commodi mollitia ex quod deleniti. Accusamus et adipisci architecto totam. Amet modi expedita recusandae, quos eos nesciunt, suscipit minus alias voluptatum vero, tempora commodi doloribus praesentium pariatur repellendus deleniti reprehenderit nobis deserunt distinctio a.</p>
+  <h4>Collectibles</h4>
+  <p>On July 23, 2019, a pair of Nike Inc. running shoes sold for $437,500 at a Sotheby's auction. The so-called "Moon Shoes" were designed by Nike co-founder and track coach Bill Bowerman for runners participating in the 1972 Olympics trials. The buyer was Miles Nadal, a Canadian investor and car collector, who had just paid $850,000 for a group of 99 rare of limited collection pairs of sport shoes. The purchase price was the highest for one pair of sneakers, the previous record being $190,373 in 2017 for a pair of signed Converse shoes in California, said to have been worn by Michael Jordan during the 1984 basketball final of the Olympics that year.[93]</p>
   </section>
   <section class="project">
     <h2>Project 3 Title</h2>
