@@ -4,20 +4,8 @@ layout: base.njk
 tags: navItem
 pageClass: home
 ---
-  <div class="header">
-        <div class="nav-menu">
-            <div class="logo">Sneaker-mania</div>
-            <div class="menu">
-                <ul>
-                    <li><a href="#" class="active">NIKE</a></li>
-                    <li><a href="#">ADIDAS</a></li>
-                    <li><a href="#">CONVERSE</a></li>
-                    <!-- <li><a href="#">Careers</a></li>
-                    <li><a href="#">Contact us</a></li> -->
-                </ul>
-            </div>
-        </div>
-        <div class="banner"> 
+  
+<div class="banner"> 
             <h1>Welcome to Sneaker-Mania</h1>
             <p>Everything you didn't know about your favorite brands</p>
             <!-- <a href="index.html">Etiam posuere</a> -->
