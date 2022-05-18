@@ -3,9 +3,6 @@ title: Adidas and Famous People.md
 layout: base.njk
 tags:  
 ---
-<!DOCTYPE html>
-<html>
-
 
 <div class="group">
 <section>
@@ -15,7 +12,7 @@ tags:
 
 "My Adidas" reached No. 5 on the Hot Black Singles[3] and No. 10 on the Hot Dance Music/Maxi-Singles Sales in 1986, climbed to No. 33 on the Hot Rap Singles chart fourteen years later in 2000. The song appears on the soundtracks for the video games Tony Hawk's Pro Skater 4 and Saints Row: The Third. The track was also mentioned in the song "Dedicated" from the Mariah Carey album Me. I Am Mariah... The Elusive Chanteuse.
 
-<img src="https://place-hold.it/600" alt="">
+<img src="/images/Adidas Run DMC 1.jpg" alt="">
 
 "It was a song that was about our sneakers, but it was bigger than just talking about how many pairs of sneakers we had," DMC told MTV News. "It came from the place of people would look at the b-boys, the b-girls and go, 'Oh, those are the people that cause all the problems in here.' And, 'Those young people are nothing but troublemakers and those young people don't know nothing.' So they was judging the book by its cover, without seeing what was inside of it."
 — Darryl McDaniels[1]
