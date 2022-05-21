@@ -6,7 +6,7 @@ tags:
 
 
 <div class="group">
-<img src="https://place-hold.it/600" alt="">
+<img src= "/images/Adidas Variation.png"> </a>
 <section
   <h1>Sneaker Mania</h1>
   <h2>Adidas History</h2>
