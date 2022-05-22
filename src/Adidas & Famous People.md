@@ -12,13 +12,11 @@ tags:
 
 
 <div class="box">
-  <img src= "https://place-hold.it/100x100">
-    <img src="/images/image.jpg"> 
+    <img src="/images/Adidas Run DMC 1.jpg"> 
  </div>
 
 <div class="box">
-  <img src= "https://place-hold.it/100x100">
-    <img src="/images/image.jpg"> 
+ <img src="/images/Adidas Superstar RunDMC.jpg"> 
  </div>
 
 
