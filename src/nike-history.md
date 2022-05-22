@@ -27,7 +27,8 @@ The company was founded on January 25, 1964, as "Blue Ribbon Sports", by Bill Bo
   <h4>Nike office in North America</h4>
   <p>Nike's world headquarters are surrounded by the city of Beaverton but are within unincorporated Washington County. The city attempted to forcibly annex Nike's headquarters, which led to a lawsuit by Nike, and lobbying by the company that ultimately ended in Oregon Senate Bill 887 of 2005. Under that bill's terms, Beaverton is specifically barred from forcibly annexing the land that Nike and Columbia Sportswear occupy in Washington County for 35 years, while Electro Scientific Industries and Tektronix receive the same protection for 30 years.[94] Nike is planning to build a 3.2 million square foot expansion to its World Headquarters in Beaverton. The design will target LEED Platinum certification and will be highlighted by natural daylight, and a gray water treatment center.</p>
   </section>
-  
+  </div>
+
 <h2>Origins and history</h2>
 
   <p>Nike, originally known as Blue Ribbon Sports (BRS), was founded by University of Oregon track athlete Phil Knight and his coach, Bill Bowerman, on January 25, 1964.[12] The company initially operated in Eugene, Oregon as a distributor for Japanese shoe maker Onitsuka Tiger, making most sales at track meets out of Knight's automobile.[12]
