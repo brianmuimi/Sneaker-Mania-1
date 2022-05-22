@@ -15,6 +15,20 @@ tags:
 The company was founded on January 25, 1964, as "Blue Ribbon Sports", by Bill Bowerman and Phil Knight, and officially became Nike, Inc. on May 30, 1971. The company takes its name from Nike, the Greek goddess of victory. Nike markets its products under its own brand, as well as Nike Golf, Nike Pro, Nike+, Air Jordan, Nike Blazers, Air Force 1, Nike Dunk, Air Max, Foamposite, Nike Skateboarding, Nike CR7, and subsidiaries including Jordan Brand and Converse. Nike also owned Bauer Hockey from 1995 to 2008, and previously owned Cole Haan, Umbro, and Hurley International. In addition to manufacturing sportswear and equipment, the company operates retail stores under the Niketown name. Nike sponsors many high-profile athletes and sports teams around the world, with the highly recognized trademarks of "Just Do It" and the Swoosh logo.</p>
 
 
+<div class="page-projects">
+  <section class="project">
+    <h2>Nike Headquarters</h2>
+    <div class="project-image">
+      <img src="/images/Nike Headquarters.jpg" alt="">
+    </div>
+    </p>
+  </section>
+  <section class="project-text">
+  <h4>Nike office in North America</h4>
+  <p>Nike's world headquarters are surrounded by the city of Beaverton but are within unincorporated Washington County. The city attempted to forcibly annex Nike's headquarters, which led to a lawsuit by Nike, and lobbying by the company that ultimately ended in Oregon Senate Bill 887 of 2005. Under that bill's terms, Beaverton is specifically barred from forcibly annexing the land that Nike and Columbia Sportswear occupy in Washington County for 35 years, while Electro Scientific Industries and Tektronix receive the same protection for 30 years.[94] Nike is planning to build a 3.2 million square foot expansion to its World Headquarters in Beaverton. The design will target LEED Platinum certification and will be highlighted by natural daylight, and a gray water treatment center.</p>
+  </section>
+  </div>
+
 <h2>Origins and history</h2>
 
   <p>Nike, originally known as Blue Ribbon Sports (BRS), was founded by University of Oregon track athlete Phil Knight and his coach, Bill Bowerman, on January 25, 1964.[12] The company initially operated in Eugene, Oregon as a distributor for Japanese shoe maker Onitsuka Tiger, making most sales at track meets out of Knight's automobile.[12]
@@ -104,6 +118,7 @@ In March 2017, Nike announced its launch of a plus-size clothing line, which wil
   <h4>Nike office in North America</h4>
   <p>Nike's world headquarters are surrounded by the city of Beaverton but are within unincorporated Washington County. The city attempted to forcibly annex Nike's headquarters, which led to a lawsuit by Nike, and lobbying by the company that ultimately ended in Oregon Senate Bill 887 of 2005. Under that bill's terms, Beaverton is specifically barred from forcibly annexing the land that Nike and Columbia Sportswear occupy in Washington County for 35 years, while Electro Scientific Industries and Tektronix receive the same protection for 30 years.[94] Nike is planning to build a 3.2 million square foot expansion to its World Headquarters in Beaverton. The design will target LEED Platinum certification and will be highlighted by natural daylight, and a gray water treatment center.</p>
   </section>
+
   <section class="project">
     <h2>Nike Shoes</h2>
     <div class="project-image">
@@ -114,6 +129,7 @@ In March 2017, Nike announced its launch of a plus-size clothing line, which wil
   <h4>Collectibles</h4>
   <p>On July 23, 2019, a pair of Nike Inc. running shoes sold for $437,500 at a Sotheby's auction. The so-called "Moon Shoes" were designed by Nike co-founder and track coach Bill Bowerman for runners participating in the 1972 Olympics trials. The buyer was Miles Nadal, a Canadian investor and car collector, who had just paid $850,000 for a group of 99 rare of limited collection pairs of sport shoes. The purchase price was the highest for one pair of sneakers, the previous record being $190,373 in 2017 for a pair of signed Converse shoes in California, said to have been worn by Michael Jordan during the 1984 basketball final of the Olympics that year.[93]</p>
   </section>
+
   <section class="project">
     <h2>Project 3 Title</h2>
     <div class="project-image">
@@ -123,6 +139,7 @@ In March 2017, Nike announced its launch of a plus-size clothing line, which wil
   <section class="project-text">
   <p>Provident dolor doloremque nisi nemo ut non commodi mollitia ex quod deleniti. Accusamus et adipisci architecto totam. Amet modi expedita recusandae, quos eos nesciunt, suscipit minus alias voluptatum vero, tempora commodi doloribus praesentium pariatur repellendus deleniti reprehenderit nobis deserunt distinctio a.</p>
   </section>
+
   <section class="project">
     <h2>Project 4 Title</h2>
     <div class="project-image">

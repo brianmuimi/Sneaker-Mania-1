@@ -1,8 +1,18 @@
 section {
 padding: 2em;
+border-style: double;
 }
 
 .page-footer{
 display: grid;
-grid-column-start: auto;
+grid-column-start: 1fr 1fr;
+}
+
+.project-image{
+max-width:50%;
+}
+
+.page-projects{
+    position:absolute;
+    left: 250px;
 }
