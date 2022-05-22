@@ -1,5 +1,5 @@
 ---
-title: Adidas and Famous People.md
+title: Adidas Superstars & Sambas.md
 layout: base.njk
 tags:  
 ---
@@ -25,4 +25,8 @@ tags:
 
 <footer>
 </footer>
+
+
+
+
 
