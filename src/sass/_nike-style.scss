@@ -5,7 +5,7 @@ padding: 2em;
 
 .page-footer{
 display: grid;
-grid-column-start: 1fr 1fr;
+grid-column-start: 1fr 1fr 1fr;
 }
 
 .project-image{
@@ -30,7 +30,7 @@ float:right;
 .grid {
   display: grid;
   grid-gap: 30px;
-  grid-template-columns: 1fr 1fr;
+  grid-template-columns: 1fr 1fr 1fr;
   grid-template-rows: 0fr 0fr;
 }
 
