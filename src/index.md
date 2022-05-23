@@ -10,7 +10,7 @@ pageClass: home
             <p>Everything you didn't know about your favorite brands</p>
             <!-- <a href="index.html">Etiam posuere</a> -->
         </div>
-</div>
+
  
 <section class="grid">
   <h2 class="section-head">BRANDS</h2>
