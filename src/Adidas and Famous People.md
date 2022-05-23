@@ -20,7 +20,7 @@ Questlove ranked the song sixth on a 2012 list of the "50 Greatest Hip Hop Songs
 
 Bob Dylan played the song on the "Shoes" episode of his Theme Time Radio Hour show in 2007. Dylan introduced the song by saying, “I remember buying this next record when it came out, down at St. Mark's Records in New York. Actually I bought the twelve inch single, and it blew my mind. It was a powerful, exciting piece of music. Now when people listen to it, they think it’s quaint and old fashioned. They’re already condescending to it and turning it into an ‘oldie’. That’s the problem – people don’t always realize how powerful the innovators are. Take someone like Chuck Berry. When his records came out they were dangerous. There was nothing like them on the radio, they were like a stampede. Now all these bands just play it louder and faster and don’t really add anything to it. And so Chuck Berry, the creator, sounds ‘quaint’ and ‘old fashioned'. They’re doing the same thing to Run-DMC. Rap records have gotten louder, more camouflaged, faster and dirtier, with a thousand samples. Those records are colorful but it doesn’t mean that Run DMC should just be considered ‘oldies’. They’re important pieces of art, and art isn’t looked at as something old or new, it’s looked at as something that moves ya. And here’s a record that moves me”.[5]
 
-<img src="https://place-hold.it/600" alt="">
+<img src="/images/Adidas Superstar 1.jpg" alt="">
 
 </section>
 </group>

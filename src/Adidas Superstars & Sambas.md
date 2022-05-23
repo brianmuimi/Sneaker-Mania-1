@@ -3,13 +3,8 @@ title: Adidas Superstars & Sambas.md
 layout: base.njk
 tags:  
 ---
-
-
-
 <!DOCTYPE html>
 <html>
-
-
 <div class="group">
 <section>
   <h1>Adidas Superstars & Sambas</h1>
@@ -26,6 +21,7 @@ The Superstar has become part of popular youth fashion culture and is now worn a
 35th Anniversary Series
 In 2005, Adidas collaborated with pop icons from the world of music, fashion, and the arts to create the Adidas 35th Anniversary collection[5] which included 35 different models from five different series.[6]
 <img src="https://place-hold.it/600" alt="">
+
 <h2>Adidas Sambas</h2>
 Adidas Samba is an athletic shoe manufactured by German multinational Adidas. It is among Adidas' most popular shoes, being the second highest selling Adidas design ever with over 35 million pairs sold worldwide, behind the Stan Smith model.[1] It has been produced in a variety of color schemes, yet the original black with three white stripes is by far the most popular. The shoe features a tan gumsole that distinguishes it from other Adidas shoes.
 The shoe was first produced in 1949 to enable football players to train on icy, hard ground (hence the suction design on the gumsole). Its original design featured the classic three stripes, as well as the gold trefoil on the foldable tongue. As years progressed, the Samba evolved into the Samba Millennium (which was made without the extended tongue) and the Samba '85. Classic models of the shoe are still in production, under the name Classic M. The original model is sometimes used for training, street play, and futsal.
