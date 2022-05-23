@@ -3,25 +3,34 @@ title: converse.md
 layout: base.njk
 tags:  
 ---
-<div class="group">
-<section>
-  <h1>Converse History</h1>
-  
-  <p><b>"Converse (/ˈkɒnvərs/) is an American shoe company that designs, distributes, and licenses sneakers, skating shoes, lifestyle brand footwear, apparel, and accessories. Founded in 1908, it has been a subsidiary of Nike, Inc. since 2003.[2]
+<h1>                          <h1>
+<div class="grid">
+<div class="box">
+<p> Converse (/ˈkɒnvərs/) is an American shoe company that designs, distributes, and licenses sneakers, skating shoes, lifestyle brand footwear, apparel, and accessories. Founded in 1908, it has been a subsidiary of Nike, Inc. since 2003.[2]
 
 During World War II, Converse shifted its manufacturing to make footwear for the military.[3] It was one of the few producers of athletic shoes and for over a half century the company dominated the American athletic shoe market. From the 1970s, the company lost its dominant position as competitors presented their own styles.
 
 Today the company's portfolio include products under the Converse, Cons, Chuck Taylor All-Star ("Chucks"), Jack Purcell, One Star, and Star Chevron trademarks.[4] Converse frequently collaborates on special edition product releases with other brands such as John Varvatos. Converse shoes are distinguished by a number of features, including the company's star insignia, the All Star's rubber sole, smooth rounded toe, and wrap-around strip.
 
-As of 2019, Converse sold products through 109 company-owned retail stores in the United States and 63 stores in international markets.[4]
-<img src="https://place-hold.it/600" alt="">
-
-Early years
+As of 2019, Converse sold products through 109 company-owned retail stores in the United States and 63 stores in international markets.[4] Early years
 Forty-seven-year-old Marquis Mills Converse, a manager at a footwear manufacturing firm, opened the Converse Rubber Shoe Company in February 1908 in Malden, Massachusetts.[5] The company was a rubber shoe manufacturer, providing winterized rubber-soled footwear for men, women, and children. By 1910, Converse was producing shoes daily, but it was not until 1915 that the company began manufacturing athletic shoes.[6]
 
 In 1918, the Converse All-Star basketball shoe was introduced.[5] Then in 1923, a basketball player named Charles H. "Chuck" Taylor walked into Converse complaining of sore feet. Converse gave him a job: he worked as a salesman and ambassador, promoting the shoes around the U.S., and in 1932 Taylor's signature was added to the All-Star patch on the classic, high-topped sneakers. He continued this work until shortly before his death in 1969.[7] Converse also customized shoes for the New York Renaissance (the "Rens"), the first all–African American professional basketball team. In 1962, center Wilt Chamberlain of the Philadelphia Warriors scored 100 points in an NBA game while wearing a pair of Chucks, taking a 169–147 victory over the New York Knicks in Hershey, Pennsylvania on March 2.[8]
 
-1941–2001: War, rise, bankruptcy, and new management
+              </p>
+
+
+<div class="box">
+    <img src="/images/Converse Chuck Taylors.jpg"> 
+ </div>
+
+<div class="box">
+    <img src="/images/image.jpg"> 
+ </div>
+
+
+<div class="box">
+<p> 1941–2001: War, rise, bankruptcy, and new management
 When the U.S. entered World War II in 1941, Converse shifted production to manufacturing rubberized footwear, outerwear, and protective suits for the military. The company resumed production of athletic footwear after the war's end. Popular during the 1950s and 1960s, Converse promoted an American image with its Converse Basketball Yearbook. Artist Charles Kerins created cover art that celebrated Converse's role in the lives of high school and college athletes.[citation needed]
 
 
@@ -47,9 +56,8 @@ By November 2012, Converse had disappeared completely from the NBA, as the last 
 
 In 2019, Converse returned to the performance basketball scene with the All-Star Pro BB. Kelly Oubre Jr. was the first player to try out the new product,[17] which combined the traditional Converse silhouette with the contemporary Nike technology. Thereafter Converse signed more players: Draymond Green in March 2020,[18] Natasha Cloud (the first WNBA player) in June 2020,[19] Shai Gilgeous-Alexander in July 2020,[20] and, more recently, Rudy Gay, P. J. Tucker, DeAndre' Bembry, De'Anthony Melton, Nickeil Alexander-Walker, Immanuel Quickley, Deividas Sirvydis.[21]
 
-Celebrities who have worn Converse include Snoop Dogg, Kristen Stewart, Rihanna, and Tyler, the Creator. The growth of Converse as a casual fashion accessory contributed to $1.7 billion in revenue in 2014 and $2 billion in 2015.
+Celebrities who have worn Converse include Snoop Dogg, Kristen Stewart, Rihanna, and Tyler, the Creator. The growth of Converse as a casual fashion accessory contributed to $1.7 billion in revenue in 2014 and $2 billion in 2015.[22] </p>
 
-<img src="https://place-hold.it/600" alt="">
+<footer>
+</footer>
 
-</section>
-</group>
