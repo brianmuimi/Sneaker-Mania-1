@@ -1,15 +1,10 @@
 ---
 title: Adidas History.md
 layout: base.njk
-<<<<<<< HEAD
 tags: navItem
-=======
-tags: navItem 
->>>>>>> refs/remotes/origin/main
 ---
 <h1> Adidas History </h1>
 
-<<<<<<< HEAD
 
 <div class="group">
 <img src="https://place-hold.it/600" alt="">
@@ -22,13 +17,6 @@ The three stripes are Adidas' identity mark, having been used on the company's c
 </section>
 </group>
 
-=======
-<div class="grid">
-  <div class="box">
-<p>  Adidas AG (German: [ˈʔadiˌdas]; stylized as adidas since 1949)[4] is a German multinational corporation, founded and headquartered in Herzogenaurach, Bavaria, that designs and manufactures shoes, clothing and accessories. It is the largest sportswear manufacturer in Europe, and the second largest in the world, after Nike. It is the holding company for the Adidas Group, which consists 8.33% stake of the football club Bayern München, and Runtastic, an Austrian fitness technology company. Adidas' revenue for 2018 was listed at €21.915 billion.
-The company was started by Adolf Dassler in his mother's house; he was joined by his elder brother Rudolf in 1924 under the name Gebrüder Dassler Schuhfabrik ("Dassler Brothers Shoe Factory"). Dassler assisted in the development of spiked running shoes (spikes) for multiple athletic events. </p></div>
->>>>>>> refs/remotes/origin/main
-  
   <div class="box">
     <img src="/images/Adidas Variation.png"> 
  </div>
