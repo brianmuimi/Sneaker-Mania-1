@@ -95,6 +95,10 @@ Nike's range of products include shoes, jerseys, shorts, cleats, baselayers, etc
 In 2004, Nike launched the SPARQ Training Program/Division.[58] Some of Nike's newest shoes contain Flywire and Lunarlite Foam to reduce weight.[59] The Air Zoom Vomero running shoe, introduced in 2006 and currently in its 11th generation, featured a combination of groundbreaking innovations including a full-length air cushioned sole,[60] an external heel counter, a crashpad in the heel for shock absorption, and Fit Frame technology for a stable fit.[61] </p>
   </div>
   
+<div class="box">
+  <img src= "/images/line.avif">
+  </div>
+
   <div class="box">
   <h1>Street fashion</h1>
 <p> The Nike brand, with its distinct V-shaped logo, quickly became regarded as a status symbol[65] in modern urban fashion and hip-hop fashion[66] due to its association with success in sport.[67] Beginning in the 1980s, various items of Nike clothing became staples of mainstream American youth fashion, especially tracksuits, shell suits, baseball caps, Air Jordans, Air Force 1's, and Air Max running shoes[68] with thick, air cushioned rubber soles and contrasting blue, yellow, green, white, or red trim.[69] Limited edition sneakers and prototypes with a regional early release were known as Quickstrikes,[70] and became highly desirable items[71] for teenage members of the sneakerhead subculture.[72]
@@ -117,8 +121,8 @@ In March 2017, Nike announced its launch of a plus-size clothing line, which wil
  </div>
   </div> -->
   
-<footer>
-</footer>
+<!-- <footer>
+</footer> -->
 
 
 <!-- <footer class="page-footer">
