@@ -1,7 +1,7 @@
 ---
 title: adidas history.md
 layout: base.njk
-tags:  
+tags: navItem
 ---
 
 
