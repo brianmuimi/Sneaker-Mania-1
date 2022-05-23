@@ -4,7 +4,6 @@ layout: base.njk
 tags: navItem
 pageClass: home
 ---
-{% include "nav-cards.njk" %}
 </section>
 <section class="grid">
   <article class="card">
@@ -12,7 +11,7 @@ pageClass: home
       <div class="card__content">
         <h1 class="card__header">Adidas</h1>
         <p class="card__text">Take a look at the history of this German classic...</p>
-        <button class="card__btn">Explore <span></span></button>
+        <button class="card__btn"><a href="/adidas-history">Explore <span></span></a></button>
       </div>
     </article>
   <article class="card">
@@ -20,7 +19,7 @@ pageClass: home
       <div class="card__content">
         <h1 class="card__header">NIKE</h1>
         <p class="card__text"> Read about this classic American brand ... </p>
-        <button class="card__btn">Explore <span></span></button>
+        <button class="card__btn"> <a href="/nike-history">Explore <span></span></a></button>
       </div>
     </article>
   <article class="card">
@@ -28,7 +27,7 @@ pageClass: home
       <div class="card__content">
         <h1 class="card__header">Converse</h1>
         <p class="card__text">Another classic American brand to explore... </p>
-        <button class="card__btn">Explore <span></span></button>
+        <button class="card__btn"><a href="/converse">Explore <span></span></a></button>
       </div>
     </article>
  </section>
