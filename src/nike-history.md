@@ -22,7 +22,7 @@ Tom Radetzki</a>
       </figcaption>
   </figure>
   </div>
-  </div>
+  
 
   </div>
   
@@ -54,6 +54,14 @@ On June 24, 2021, during an earnings call with investors, CEO John Donahoe state
 
 <div class="box">
   <img src= "/images/Nike Headquarters.jpg">
+
+  <figure class="img-container">
+     <img src="" alt="">
+      <figcaption class="img-caption">
+        Photo from <a href="https://wordpress.org/openverse/image/255257c4-c711-4e09-bf39-4d77122a97ad/">
+ Open Grid Scheduler / Grid Engine</a>
+      </figcaption>
+  </figure>
   </div>
   
 
@@ -88,6 +96,13 @@ In March 2020, Nike reported a 5% drop in Chinese sales associated with stores' 
   
   <div class="box">
     <img src="/images/Nike Various Shoes Circle.jpg"> 
+    <figure class="img-container">
+     <img src="" alt="">
+      <figcaption class="img-caption">
+        Photo from <a href="https://unsplash.com/photos/LFlVuWLjYEo">
+Warren Jones</a>
+      </figcaption>
+  </figure>
  </div>
 
   <div class="box">
@@ -106,7 +121,15 @@ In 2004, Nike launched the SPARQ Training Program/Division.[58] Some of Nike's n
   
 <div class="box">
   <img src= "/images/line.avif">
+  <figure class="img-container">
+     <img src="" alt="">
+      <figcaption class="img-caption">
+        Photo from <a href="https://unsplash.com/photos/OX_en7CXMj4">
+Hermes Rivera</a>
+      </figcaption>
+  </figure>
   </div>
+
 
   <div class="box">
   <h1>Street fashion</h1>
