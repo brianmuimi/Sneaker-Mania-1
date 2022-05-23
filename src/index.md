@@ -4,43 +4,34 @@ layout: base.njk
 tags: navItem
 pageClass: home
 ---
-  
-<div class="banner"> 
-            <h1>Welcome to Sneaker-Mania</h1>
-            <p>Everything you didn't know about your favorite brands</p>
-            <!-- <a href="index.html">Etiam posuere</a> -->
-        </div>
-
- 
+{% include "nav-cards.njk" %}
+</section>
 <section class="grid">
-  <h2 class="section-head">BRANDS</h2>
-    <article class="card">
-      <div class="card__img"><img src="https://images.unsplash.com/photo-1519681393784-d120267933ba?ixlib=rb-1.2.1&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;auto=format&amp;fit=crop&amp;w=2250&amp;q=80" alt="Snowy Mountains"></div>
+  <article class="card">
+      <div class="card__img"><img src="https://images.unsplash.com/photo-1558191053-c03db2757e3d?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=80&raw_url=true&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740" alt="Adidas Shoes"></div>
       <div class="card__content">
-        <h1 class="card__header">A starry night</h1>
-        <p class="card__text">Look up at the night sky, and find yourself <strong>immersed</strong> in the amazing mountain range of Aspen. </p>
-        <button class="card__btn">Explore <span>&rarr;</span></button>
+        <h1 class="card__header">Adidas</h1>
+        <p class="card__text">Take a look at the history of this German classic...</p>
+        <button class="card__btn">Explore <span></span></button>
       </div>
     </article>
-
-<article class="card">
-      <div class="card__img"><img src="https://images.unsplash.com/photo-1485160497022-3e09382fb310?ixlib=rb-1.2.1&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;auto=format&amp;fit=crop&amp;w=2250&amp;q=80" alt="Desert"></div>
+ <article class="card">
+      <div class="card__img"><img src="https://images.unsplash.com/photo-1552346154-21d32810aba3?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=80&raw_url=true&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740" alt="Nike Shoes"></div>
       <div class="card__content">
-        <h1 class="card__header">Misty mornings</h1>
-        <p class="card__text">Capture the stunning <strong>essence</strong> of the early morning sunrise in the Californian wilderness.</p>
-        <button class="card__btn">Explore <span>&rarr;</span></button>
+        <h1 class="card__header">NIKE</h1>
+        <p class="card__text"> Read about this classic American brand ... </p>
+        <button class="card__btn">Explore <span></span></button>
       </div>
     </article>
-
-<article class="card">
-      <div class="card__img"><img src="https://images.unsplash.com/photo-1506318164473-2dfd3ede3623?ixlib=rb-1.2.1&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;auto=format&amp;fit=crop&amp;w=3300&amp;q=80" alt="Canyons"></div>
+  
+  <article class="card">
+    <div class="card__img"><img src="https://images.unsplash.com/photo-1527128296579-fce16948f060?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=80&raw_url=true&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740" alt="Converse Shoes"></div>
       <div class="card__content">
-        <h1 class="card__header">Utah sunsets</h1>
-        <p class="card__text">Sunsets over the <strong>stunning</strong> Utah Canyonlands, is truly something much more than incredible.</p>
-        <button class="card__btn">Explore <span>&rarr;</span></button>
+        <h1 class="card__header">Converse</h1>
+        <p class="card__text">Another classic American brand to explore... </p>
+        <button class="card__btn">Explore <span></span></button>
       </div>
     </article>
  </section>
-
 
 

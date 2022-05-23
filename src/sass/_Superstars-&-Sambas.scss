@@ -1,5 +1,6 @@
 section {
   padding: 2em;
+  // border-style: double;
   }
   
   .page-footer{
@@ -21,6 +22,11 @@ section {
   }
   
   
+  // .page-projects{
+      // position:absolute;
+      // left: 250px;
+  // }
+  
   .grid {
     display: grid;
     grid-gap: 20px;
@@ -28,7 +34,7 @@ section {
     grid-template-rows: 0fr 0fr;
   }
   
-
+  /* Styling */
   .box {
     background: #818181;
     color: rgb(0, 0, 0);
@@ -43,11 +49,13 @@ section {
   
   .img-container{
     position: relative;
-    margin: 0; 
+    margin: 0; /* remove figure margins */
   }
   
   .img-container img{
     display: block; 
+    /* setting the display to block 
+    removes the gap under the image */
   }
   
   .img-caption{

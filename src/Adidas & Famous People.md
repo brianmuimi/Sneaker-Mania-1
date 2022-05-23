@@ -1,7 +1,7 @@
 ---
 title: Adidas and Famous People.md
 layout: base.njk
-tags:  
+tags: navItem 
 ---
 <h1> Adidas & Famous People <h1>
 <div class="grid">
