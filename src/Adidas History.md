@@ -7,7 +7,7 @@ tags: navItem
 
 <div class="group">
 <img src="https://place-hold.it/600" alt="">
-<section
+<section>
   <h1>Sneaker Mania</h1>
   <h2>Adidas History</h2>
   <p><b>Adidas AG (German: [ˈʔadiˌdas]; stylized as adidas since 1949)[4] is a German multinational corporation, founded and headquartered in Herzogenaurach, Bavaria, that designs and manufactures shoes, clothing and accessories. It is the largest sportswear manufacturer in Europe, and the second largest in the world, after Nike. It is the holding company for the Adidas Group, which consists 8.33% stake of the football club Bayern München, and Runtastic, an Austrian fitness technology company. Adidas' revenue for 2018 was listed at €21.915 billion.
