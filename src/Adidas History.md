@@ -1,7 +1,7 @@
 ---
 title: Adidas History.md
 layout: base.njk
-tags:  
+tags: navItem 
 ---
 <h1> Adidas History </h1>
 
