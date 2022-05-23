@@ -1,7 +1,7 @@
 ---
 title: nike-history.md
 layout: base.njk
-tags:
+tags: navItem
 ---
 
 <div class="grid">
@@ -13,6 +13,15 @@ The company was founded on January 25, 1964, as "Blue Ribbon Sports", by Bill Bo
 
 <div class="box">
   <img src= "/images/Nike Air Max.jpg">
+  
+  <figure class="img-container">
+     <img src="" alt="">
+      <figcaption class="img-caption">
+        Photo from <a href="https://unsplash.com/photos/trdk1R0F3tg">
+Tom Radetzki</a>
+      </figcaption>
+  </figure>
+  </div>
   </div>
 
   </div>
