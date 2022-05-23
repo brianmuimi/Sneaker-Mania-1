@@ -1,5 +1,5 @@
 ---
-title: adidas history.md
+title: Adidas History.md
 layout: base.njk
 tags:  
 ---

@@ -10,7 +10,12 @@ tags:
 
 "My Adidas" reached No. 5 on the Hot Black Singles[3] and No. 10 on the Hot Dance Music/Maxi-Singles Sales in 1986, climbed to No. 33 on the Hot Rap Singles chart fourteen years later in 2000. The song appears on the soundtracks for the video games Tony Hawk's Pro Skater 4 and Saints Row: The Third. The track was also mentioned in the song "Dedicated" from the Mariah Carey album Me. I Am Mariah... The Elusive Chanteuse.  </p>
 
-
+<figure class="img-container">
+    <img src="https://picsum.photos/1028/720" alt="random image">
+    <figcaption class="img-caption">
+      Photo from <a href="https://picsum.photos/">Lorem Picsum</a>
+    </figcaption>
+</figure>
 <div class="box">
     <img src="/images/Adidas Run DMC 1.jpg"> 
  </div>
