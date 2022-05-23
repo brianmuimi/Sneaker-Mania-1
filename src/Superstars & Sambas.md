@@ -1,14 +1,18 @@
 ---
-title: Adidas Superstars & Sambas.md
+title: Superstars & Sambas.md
 layout: base.njk
-tags:  
+tags: navItem
 ---
-<h1>                           <h1>
+<h1>Adidas Superstars & Sambas <h1>
 <div class="grid">
 <div class="box">
-<p> The Superstar is a low-top athletic shoe manufactured by German multinational company Adidas since 1969. The shoe was originally released as a low-top version of the Pro Model basketball shoe.[1] The design is nicknamed the "clam-toe", "shell-toe", "shell shoes", "shell tops", and "sea shells" (along with Adicolor). When the Superstar was introduced, it was the first low-top basketball shoe to feature an all-leather upper and rubber shell-toe. With its rubber toe protection and non-marking sole, the shoe caught the attention of NCAA and NBA players, most notably Kareem Abdul-Jabbar. Within the first few years of production, the Superstar was being worn by more than 75% of all NBA players.[2] Over the course of the next few years, it advanced from the court to the streets and, consequently, into the public's consciousness.
+<p> The Superstar is a low-top athletic shoe manufactured by German multinational company Adidas since 1969. The shoe was originally released as a low-top version of the Pro Model basketball shoe.[1] The design is nicknamed the "clam-toe", "shell-toe", "shell shoes", "shell tops", and "sea shells" (along with Adicolor). When the Superstar was introduced, it was the first low-top basketball shoe to feature an all-leather upper and rubber shell-toe. With its rubber toe protection and non-marking sole, the shoe caught the attention of NCAA and NBA players, most notably Kareem Abdul-Jabbar. Within the first few years of production, the Superstar was being worn by more than 75% of all NBA players.[2] Over the course of the next few years, it advanced from the court to the streets and, consequently, into the public's consciousness. </p>
+</div>
 
-
+<div class="box">
+    <img src="/images/Adidas Samba.jpg"> 
+</div>
+<div>
 Pair of Adidas Superstar, with a black color and 3 white stripes
 
 Superstar 35th Anniversary Music Series #15 Run DMC
@@ -20,20 +24,12 @@ The Superstar (now known officially as the "Superstar II" as the current product
 
 35th Anniversary Series
 In 2005, Adidas collaborated with pop icons from the world of music, fashion, and the arts to create the Adidas 35th Anniversary collection[5] which included 35 different models from five different series.[6]              </p>
-
+ </div>
 
 <div class="box">
     <img src="/images/image.jpg"> 
  </div>
 
-<div class="box">
-  <img src= "https://place-hold.it/100x100">
-    <img src="/images/image.jpg"> 
- </div>
-
-
-<div class="box">
-<p>               </p>
 
 <footer>
 </footer>

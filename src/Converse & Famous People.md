@@ -1,7 +1,7 @@
 ---
 title: Converse and Famous People.md
 layout: base.njk
-tags:  
+tags: navItem 
 ---
 <h1>Converse & Famous People<h1>
 <div class="grid">

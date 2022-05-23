@@ -4,7 +4,7 @@ layout: base.njk
 tags: navItem
 pageClass: home
 ---
-  
+{% include "nav-cards.njk" %}
 <div class="banner"> 
             <h1>Welcome to Sneaker-Mania</h1>
             <p>Everything you didn't know about your favorite brands</p>
