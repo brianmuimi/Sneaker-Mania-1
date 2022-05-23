@@ -1,0 +1,18 @@
+.grid {
+  display: grid;
+  grid-gap: 10px;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 10fr 10fr;
+}
+
+/* Styling */
+.box {
+  background: #ccc;
+  color: #ggg ;
+  text-align: center;
+  padding: 10px;
+  border-radius: 3px; }
+
+body {
+  font-family: -apple-system, sans-serif;
+}
